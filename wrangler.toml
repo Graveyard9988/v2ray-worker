@@ -1,8 +1,8 @@
-name = "your"
+name = "yours"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "vfarid" }
+  { binding = "settings", id = "00ba89b24f3343038aeb8d538b3a857c" }
 ]
