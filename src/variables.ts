@@ -50,14 +50,11 @@ export const supportedCiphers: Array<string> = [
 
 export const fragmentsLengthList: Array<string> = [
   "10-20",
-	"20-40",
-	"10-50",
-	"20-50",
-	"30-80",
-	"50-100",
-	"100-200"
-	"1402-1403",
-	]
+  "10-50",
+  "20-50",
+  "1402-1403",
+  "50-100",
+]
 
 export const fragmentsIntervalList: Array<string> = [
   "1",
