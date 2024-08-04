@@ -1,6 +1,6 @@
 export const version: string = "2.4"
-export const providersUri: string = "https://raw.githubusercontent.com/vfarid/v2ray-worker/main/resources/provider-list.txt"
-export const proxiesUri: string = "https://raw.githubusercontent.com/vfarid/v2ray-worker/main/resources/proxy-list.txt"
+export const providersUri: string = "https://raw.githubusercontent.com/sahar-km/v2ray-worker/main/resources/provider-list.txt"
+export const proxiesUri: string = "https://raw.githubusercontent.com/sahar-km/v2ray-worker/main/resources/proxy-list.txt"
 
 export const defaultProtocols: Array<string> = [
   "vmess",
@@ -55,13 +55,17 @@ export const fragmentsLengthList: Array<string> = [
   "20-50",
   "30-80",
   "50-100",
+  "100-200"
+  "1402-1403",
+  "2023-2024",
 ]
 
 export const fragmentsIntervalList: Array<string> = [
+  "1",
+  "1-2",
+  "1-5",
   "5-10",
-	"10-20",
-  "10-50",
-  "20-50",
+  "10-20",
 ]
 
 export const defaultClashConfig = {
