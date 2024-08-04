@@ -57,8 +57,7 @@ export const fragmentsLengthList: Array<string> = [
 	"50-100",
 	"100-200"
 	"1402-1403",
-	"2023-2024",
-]
+	]
 
 export const fragmentsIntervalList: Array<string> = [
   "1",
