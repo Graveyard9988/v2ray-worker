@@ -1,14 +1,10 @@
+sahar.nscl.ir
 bpb.radically.pro,USA
 de.radically.pro,DE
 193.123.81.105,UAE
-193.123.69.77,UAE
 139.185.34.131,UAE
-43.153.80.208,USA
-bpb.yousef.isegaro.com,RAND
 proxyip.us.hw.090227.xyz,USA
 proxyip.digitalocean.hw.090227.xyz,USA
 proxyip.oracle.fxxk.dedyn.io,USA
-62.3.12.185,TUR
-192.237.192.175,USA
 proxyip.vultr.fxxk.dedyn.io,USA
 proxyip.multacom.fxxk.dedyn.io,USA
