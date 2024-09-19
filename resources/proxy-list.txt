@@ -1,10 +1,9 @@
-sahar.nscl.ir,USA
 bpb.radically.pro,USA
 de.radically.pro,DE
+turk.radicalization.ir,TR
 193.123.81.105,UAE
 139.185.34.131,UAE
-proxyip.us.hw.090227.xyz,USA
-proxyip.digitalocean.hw.090227.xyz,USA
-proxyip.oracle.fxxk.dedyn.io,USA
-proxyip.vultr.fxxk.dedyn.io,USA
-proxyip.multacom.fxxk.dedyn.io,USA
+193.123.69.77,UAE
+62.3.12.185,TR
+2.59.117.217,TR
+43.153.103.203,USA
