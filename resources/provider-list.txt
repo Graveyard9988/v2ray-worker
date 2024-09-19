@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/list/00.txt
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list1.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list2.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Config%20list3.txt
@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
