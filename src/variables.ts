@@ -10,7 +10,12 @@ export const defaultProtocols: Array<string> = [
 ]
 
 export const defaultALPNList: Array<string> = [
-  "http/1.1",
+  "h3,h2,http/1.1",
+  "h3,h2,http/1.1",
+  "h3,h2,http/1.1",
+  "h3,h2",
+  "h2,http/1.1",
+  "h2",
   "http/1.1",
 ]
 
@@ -23,6 +28,8 @@ export const defaultPFList: Array<string> = [
   "edge",
   "randomized",
   "ios",
+  "chrome",
+  "android",
   "randomized",
 ]
 
@@ -50,19 +57,22 @@ export const supportedCiphers: Array<string> = [
 
 export const fragmentsLengthList: Array<string> = [
   "10-20",
-  "10-50",
+	"10-30",
+  "10-40",
+	"20-40",
   "20-50",
-  "100-200",
-  "1402-1403",
-  "2023-2024"
+  "40-80",
+  "50-100",
+	"1402-1403",
 ]
 
 export const fragmentsIntervalList: Array<string> = [
   "1",
 	"1-2",
+	"2-4",
 	"1-5",
 	"5-10",
-	"10-20",
+	"10-25",
 ]
 
 export const defaultClashConfig = {
