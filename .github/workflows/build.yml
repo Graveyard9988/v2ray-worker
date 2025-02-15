@@ -53,7 +53,7 @@ jobs:
 
     - name: Build project
       run: |
-        npx wrangler deploy src/worker.js --name v2ray-worker/ --compatibility-flag [nodejs_compat] --compatibility-date 2025-01-18 --dry-run --outdir=dist
+        npx wrangler deploy src/worker.ts --name v2ray-worker/ --compatibility-flag [nodejs_compat] --compatibility-date 2025-01-18 --dry-run --outdir=dist
         mkdir -p build
         cp -f dist/worker.js dist/_worker.js
         cp -f dist/worker.js build/unobfuscated-worker.js
